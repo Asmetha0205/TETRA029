@@ -2,8 +2,10 @@ import json
 import os
 from typing import Dict, Any, Optional, List, Tuple
 
-# Path resolution for root data files pushed by Member 3 (Malav)
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+# Path resolution: locate project root (where skill_aliases.json and industry_skill_base.json are located)
+CURRENT_FILE_DIR = os.path.dirname(os.path.abspath(__file__))
+# Navigate up: services -> app -> backend -> ROOT
+BASE_DIR = os.path.abspath(os.path.join(CURRENT_FILE_DIR, "..", "..", ".."))
 
 ALIASES_PATH = os.path.join(BASE_DIR, "skill_aliases.json")
 SKILL_BASE_PATH = os.path.join(BASE_DIR, "industry_skill_base.json")

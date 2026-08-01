@@ -5,7 +5,6 @@ Tests PDF Parsing, Skill Extraction, Normalization, Alignment Score Calculation,
 import os
 import sys
 
-# Ensure backend directory is in sys.path
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from app.services.pdf_parser import split_into_units
@@ -22,9 +21,9 @@ def run_tests():
     for term in test_terms:
         norm = normalize_term(term)
         if norm:
-            print(f"   ✓ Raw: '{term}' -> Normalized: '{norm['canonical_name']}' (ID: {norm['skill_id']}, Demand: {norm['demand_score']})")
+            print(f"   [OK] Raw: '{term}' -> Normalized: '{norm['canonical_name']}' (ID: {norm['skill_id']}, Demand: {norm['demand_score']})")
         else:
-            print(f"   ✗ Raw: '{term}' -> Not found in skill base")
+            print(f"   [SKIP] Raw: '{term}' -> Not found in skill base")
 
     # 2. Test Unit Splitter
     sample_syllabus = """
@@ -65,7 +64,7 @@ def run_tests():
     for gap in scores['critical_gaps'][:4]:
         print(f"     ! {gap['name']} (Category: {gap['category']}, Demand Score: {gap['demand_score']})")
 
-    print("\n✅ All Member 1 backend services verified successfully!")
+    print("\n[SUCCESS] All Member 1 backend services verified successfully!")
 
 if __name__ == "__main__":
     run_tests()
