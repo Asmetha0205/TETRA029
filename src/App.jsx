@@ -1,11 +1,12 @@
 import React, { useState } from 'react';
+import PdfSyllabusAnalyzer from './components/PdfSyllabusAnalyzer';
 import GraphExplorer from './components/GraphExplorer';
 import SkillBaseTable from './components/SkillBaseTable';
 import AliasTester from './components/AliasTester';
 import RoleSkillMatrix from './components/RoleSkillMatrix';
 import AuraDBStatusCard from './components/AuraDBStatusCard';
 
-import { Network, Database, Tag, Briefcase, Server, Sparkles, CheckCircle2, ShieldAlert, Cpu } from 'lucide-react';
+import { FileText, Network, Database, Tag, Briefcase, Server, Sparkles, CheckCircle2, ShieldAlert, Cpu } from 'lucide-react';
 
 import skillBase from './data/industry_skill_base.json';
 import aliasMap from './data/skill_aliases.json';
@@ -13,9 +14,10 @@ import roleMap from './data/role_skill_map.json';
 import graphData from './data/graph_sample.json';
 
 export default function App() {
-  const [activeTab, setActiveTab] = useState('graph');
+  const [activeTab, setActiveTab] = useState('pdf');
 
   const tabs = [
+    { id: 'pdf', label: 'PDF Syllabus & Skills UI', icon: FileText, badge: 'Light Mode' },
     { id: 'graph', label: 'Knowledge Graph', icon: Network, badge: `${graphData.nodes.length} Nodes` },
     { id: 'skills', label: 'Industry Skill Base', icon: Database, badge: `${skillBase.length} Skills` },
     { id: 'aliases', label: 'Alias Normalization', icon: Tag, badge: `${Object.keys(aliasMap).length} Map Entries` },
@@ -111,6 +113,7 @@ export default function App() {
 
         {/* Tab Content */}
         <div className="transition-all duration-300">
+          {activeTab === 'pdf' && <PdfSyllabusAnalyzer />}
           {activeTab === 'graph' && <GraphExplorer />}
           {activeTab === 'skills' && <SkillBaseTable />}
           {activeTab === 'aliases' && <AliasTester />}
