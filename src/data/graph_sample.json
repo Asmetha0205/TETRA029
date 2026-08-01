@@ -1,0 +1,1266 @@
+{
+  "nodes": [
+    {
+      "id": "skill_generative_ai",
+      "label": "Generative AI",
+      "type": "EmergingTech"
+    },
+    {
+      "id": "skill_llm",
+      "label": "Large Language Models",
+      "type": "EmergingTech"
+    },
+    {
+      "id": "skill_rag",
+      "label": "Retrieval-Augmented Generation",
+      "type": "EmergingTech"
+    },
+    {
+      "id": "skill_vectordb",
+      "label": "Vector Databases",
+      "type": "EmergingTech"
+    },
+    {
+      "id": "skill_prompt_eng",
+      "label": "Prompt Engineering",
+      "type": "EmergingTech"
+    },
+    {
+      "id": "skill_ai_agents",
+      "label": "AI Agents",
+      "type": "EmergingTech"
+    },
+    {
+      "id": "skill_ml",
+      "label": "Machine Learning",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_deep_learning",
+      "label": "Deep Learning",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_nlp",
+      "label": "Natural Language Processing",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_computer_vision",
+      "label": "Computer Vision",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_mlops",
+      "label": "MLOps",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_pytorch",
+      "label": "PyTorch",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_tensorflow",
+      "label": "TensorFlow",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_python",
+      "label": "Python",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_sql",
+      "label": "SQL",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_pandas",
+      "label": "Pandas",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_spark",
+      "label": "Apache Spark",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_data_engineering",
+      "label": "Data Engineering",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_etl",
+      "label": "ETL",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_data_viz",
+      "label": "Data Visualization",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_hadoop",
+      "label": "Hadoop",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_kafka",
+      "label": "Apache Kafka",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_aws",
+      "label": "AWS",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_azure",
+      "label": "Microsoft Azure",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_gcp",
+      "label": "Google Cloud Platform",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_kubernetes",
+      "label": "Kubernetes",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_docker",
+      "label": "Docker",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_terraform",
+      "label": "Terraform",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_cicd",
+      "label": "CI/CD",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_git",
+      "label": "Git",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_jenkins",
+      "label": "Jenkins",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_linux",
+      "label": "Linux",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_ansible",
+      "label": "Ansible",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_javascript",
+      "label": "JavaScript",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_typescript",
+      "label": "TypeScript",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_react",
+      "label": "React",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_nodejs",
+      "label": "Node.js",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_rest_api",
+      "label": "REST APIs",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_django",
+      "label": "Django",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_html_css",
+      "label": "HTML/CSS",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_mongodb",
+      "label": "MongoDB",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_network_security",
+      "label": "Network Security",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_ethical_hacking",
+      "label": "Ethical Hacking",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_siem",
+      "label": "SIEM",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_cryptography",
+      "label": "Cryptography",
+      "type": "Skill"
+    },
+    {
+      "id": "skill_cloud_security",
+      "label": "Cloud Security",
+      "type": "Skill"
+    },
+    {
+      "id": "data_scientist",
+      "label": "data_scientist",
+      "type": "Role"
+    },
+    {
+      "id": "ml_engineer",
+      "label": "ml_engineer",
+      "type": "Role"
+    },
+    {
+      "id": "full_stack",
+      "label": "full_stack",
+      "type": "Role"
+    },
+    {
+      "id": "cloud_engineer",
+      "label": "cloud_engineer",
+      "type": "Role"
+    },
+    {
+      "id": "cyber_analyst",
+      "label": "cyber_analyst",
+      "type": "Role"
+    }
+  ],
+  "edges": [
+    {
+      "source": "skill_generative_ai",
+      "target": "skill_llm",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_generative_ai",
+      "target": "skill_rag",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_generative_ai",
+      "target": "skill_prompt_eng",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_generative_ai",
+      "target": "skill_ai_agents",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_llm",
+      "target": "skill_generative_ai",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_llm",
+      "target": "skill_rag",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_llm",
+      "target": "skill_prompt_eng",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_llm",
+      "target": "skill_nlp",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_rag",
+      "target": "skill_vectordb",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_rag",
+      "target": "skill_llm",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_rag",
+      "target": "skill_prompt_eng",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_vectordb",
+      "target": "skill_rag",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_vectordb",
+      "target": "skill_llm",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_vectordb",
+      "target": "skill_generative_ai",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_prompt_eng",
+      "target": "skill_llm",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_prompt_eng",
+      "target": "skill_generative_ai",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_prompt_eng",
+      "target": "skill_rag",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_ai_agents",
+      "target": "skill_llm",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_ai_agents",
+      "target": "skill_generative_ai",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_ai_agents",
+      "target": "skill_prompt_eng",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_ai_agents",
+      "target": "skill_rag",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_ml",
+      "target": "skill_python",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_ml",
+      "target": "skill_deep_learning",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_ml",
+      "target": "skill_mlops",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_deep_learning",
+      "target": "skill_ml",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_deep_learning",
+      "target": "skill_pytorch",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_deep_learning",
+      "target": "skill_tensorflow",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_deep_learning",
+      "target": "skill_computer_vision",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_nlp",
+      "target": "skill_ml",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_nlp",
+      "target": "skill_llm",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_nlp",
+      "target": "skill_deep_learning",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_computer_vision",
+      "target": "skill_deep_learning",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_computer_vision",
+      "target": "skill_pytorch",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_computer_vision",
+      "target": "skill_ml",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_mlops",
+      "target": "skill_ml",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_mlops",
+      "target": "skill_docker",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_mlops",
+      "target": "skill_kubernetes",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_mlops",
+      "target": "skill_cicd",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_pytorch",
+      "target": "skill_deep_learning",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_pytorch",
+      "target": "skill_python",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_pytorch",
+      "target": "skill_ml",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_tensorflow",
+      "target": "skill_deep_learning",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_tensorflow",
+      "target": "skill_python",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_tensorflow",
+      "target": "skill_ml",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_python",
+      "target": "skill_ml",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_python",
+      "target": "skill_pandas",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_python",
+      "target": "skill_sql",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_sql",
+      "target": "skill_python",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_sql",
+      "target": "skill_etl",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_sql",
+      "target": "skill_data_engineering",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_pandas",
+      "target": "skill_python",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_pandas",
+      "target": "skill_data_viz",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_pandas",
+      "target": "skill_ml",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_spark",
+      "target": "skill_data_engineering",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_spark",
+      "target": "skill_hadoop",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_spark",
+      "target": "skill_python",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_data_engineering",
+      "target": "skill_etl",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_data_engineering",
+      "target": "skill_spark",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_data_engineering",
+      "target": "skill_kafka",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_data_engineering",
+      "target": "skill_sql",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_etl",
+      "target": "skill_data_engineering",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_etl",
+      "target": "skill_sql",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_etl",
+      "target": "skill_spark",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_data_viz",
+      "target": "skill_pandas",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_data_viz",
+      "target": "skill_sql",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_data_viz",
+      "target": "skill_python",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_hadoop",
+      "target": "skill_spark",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_hadoop",
+      "target": "skill_data_engineering",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_kafka",
+      "target": "skill_data_engineering",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_kafka",
+      "target": "skill_spark",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_aws",
+      "target": "skill_docker",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_aws",
+      "target": "skill_kubernetes",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_aws",
+      "target": "skill_terraform",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_aws",
+      "target": "skill_cloud_security",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_azure",
+      "target": "skill_aws",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_azure",
+      "target": "skill_docker",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_azure",
+      "target": "skill_kubernetes",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_gcp",
+      "target": "skill_aws",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_gcp",
+      "target": "skill_kubernetes",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_gcp",
+      "target": "skill_docker",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_kubernetes",
+      "target": "skill_docker",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_kubernetes",
+      "target": "skill_aws",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_kubernetes",
+      "target": "skill_cicd",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_kubernetes",
+      "target": "skill_terraform",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_docker",
+      "target": "skill_kubernetes",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_docker",
+      "target": "skill_cicd",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_docker",
+      "target": "skill_aws",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_terraform",
+      "target": "skill_aws",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_terraform",
+      "target": "skill_kubernetes",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_terraform",
+      "target": "skill_cicd",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_cicd",
+      "target": "skill_git",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_cicd",
+      "target": "skill_docker",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_cicd",
+      "target": "skill_jenkins",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_cicd",
+      "target": "skill_kubernetes",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_git",
+      "target": "skill_cicd",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_git",
+      "target": "skill_linux",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_jenkins",
+      "target": "skill_cicd",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_jenkins",
+      "target": "skill_git",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_jenkins",
+      "target": "skill_docker",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_linux",
+      "target": "skill_git",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_linux",
+      "target": "skill_docker",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_linux",
+      "target": "skill_cicd",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_ansible",
+      "target": "skill_terraform",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_ansible",
+      "target": "skill_linux",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_ansible",
+      "target": "skill_cicd",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_javascript",
+      "target": "skill_react",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_javascript",
+      "target": "skill_nodejs",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_javascript",
+      "target": "skill_typescript",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_javascript",
+      "target": "skill_html_css",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_typescript",
+      "target": "skill_javascript",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_typescript",
+      "target": "skill_react",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_typescript",
+      "target": "skill_nodejs",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_react",
+      "target": "skill_javascript",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_react",
+      "target": "skill_typescript",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_react",
+      "target": "skill_html_css",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_react",
+      "target": "skill_rest_api",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_nodejs",
+      "target": "skill_javascript",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_nodejs",
+      "target": "skill_rest_api",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_nodejs",
+      "target": "skill_mongodb",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_rest_api",
+      "target": "skill_nodejs",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_rest_api",
+      "target": "skill_django",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_rest_api",
+      "target": "skill_react",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_django",
+      "target": "skill_python",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_django",
+      "target": "skill_rest_api",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_django",
+      "target": "skill_sql",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_html_css",
+      "target": "skill_javascript",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_html_css",
+      "target": "skill_react",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_mongodb",
+      "target": "skill_nodejs",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_mongodb",
+      "target": "skill_rest_api",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_mongodb",
+      "target": "skill_sql",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_network_security",
+      "target": "skill_ethical_hacking",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_network_security",
+      "target": "skill_siem",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_network_security",
+      "target": "skill_cloud_security",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_ethical_hacking",
+      "target": "skill_network_security",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_ethical_hacking",
+      "target": "skill_cryptography",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_ethical_hacking",
+      "target": "skill_siem",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_siem",
+      "target": "skill_network_security",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_siem",
+      "target": "skill_ethical_hacking",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_cryptography",
+      "target": "skill_network_security",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_cryptography",
+      "target": "skill_cloud_security",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_cloud_security",
+      "target": "skill_network_security",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_cloud_security",
+      "target": "skill_aws",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_cloud_security",
+      "target": "skill_cryptography",
+      "relation": "RELATED_TO"
+    },
+    {
+      "source": "skill_python",
+      "target": "data_scientist",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_sql",
+      "target": "data_scientist",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_ml",
+      "target": "data_scientist",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_deep_learning",
+      "target": "data_scientist",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_nlp",
+      "target": "data_scientist",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_pandas",
+      "target": "data_scientist",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_data_viz",
+      "target": "data_scientist",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_generative_ai",
+      "target": "data_scientist",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "data_scientist",
+      "target": "skill_generative_ai",
+      "relation": "DEMANDS"
+    },
+    {
+      "source": "skill_llm",
+      "target": "data_scientist",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "data_scientist",
+      "target": "skill_llm",
+      "relation": "DEMANDS"
+    },
+    {
+      "source": "skill_rag",
+      "target": "data_scientist",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "data_scientist",
+      "target": "skill_rag",
+      "relation": "DEMANDS"
+    },
+    {
+      "source": "skill_python",
+      "target": "ml_engineer",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_ml",
+      "target": "ml_engineer",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_deep_learning",
+      "target": "ml_engineer",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_pytorch",
+      "target": "ml_engineer",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_mlops",
+      "target": "ml_engineer",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_docker",
+      "target": "ml_engineer",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_kubernetes",
+      "target": "ml_engineer",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_llm",
+      "target": "ml_engineer",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "ml_engineer",
+      "target": "skill_llm",
+      "relation": "DEMANDS"
+    },
+    {
+      "source": "skill_rag",
+      "target": "ml_engineer",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "ml_engineer",
+      "target": "skill_rag",
+      "relation": "DEMANDS"
+    },
+    {
+      "source": "skill_vectordb",
+      "target": "ml_engineer",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "ml_engineer",
+      "target": "skill_vectordb",
+      "relation": "DEMANDS"
+    },
+    {
+      "source": "skill_ai_agents",
+      "target": "ml_engineer",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "ml_engineer",
+      "target": "skill_ai_agents",
+      "relation": "DEMANDS"
+    },
+    {
+      "source": "skill_prompt_eng",
+      "target": "ml_engineer",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "ml_engineer",
+      "target": "skill_prompt_eng",
+      "relation": "DEMANDS"
+    },
+    {
+      "source": "skill_javascript",
+      "target": "full_stack",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_typescript",
+      "target": "full_stack",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_react",
+      "target": "full_stack",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_nodejs",
+      "target": "full_stack",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_html_css",
+      "target": "full_stack",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_rest_api",
+      "target": "full_stack",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_mongodb",
+      "target": "full_stack",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_sql",
+      "target": "full_stack",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_git",
+      "target": "full_stack",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_docker",
+      "target": "full_stack",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_aws",
+      "target": "cloud_engineer",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_azure",
+      "target": "cloud_engineer",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_kubernetes",
+      "target": "cloud_engineer",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_docker",
+      "target": "cloud_engineer",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_terraform",
+      "target": "cloud_engineer",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_linux",
+      "target": "cloud_engineer",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_cicd",
+      "target": "cloud_engineer",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_git",
+      "target": "cloud_engineer",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_cloud_security",
+      "target": "cloud_engineer",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_ansible",
+      "target": "cloud_engineer",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_network_security",
+      "target": "cyber_analyst",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_ethical_hacking",
+      "target": "cyber_analyst",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_siem",
+      "target": "cyber_analyst",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_cryptography",
+      "target": "cyber_analyst",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_cloud_security",
+      "target": "cyber_analyst",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_linux",
+      "target": "cyber_analyst",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_python",
+      "target": "cyber_analyst",
+      "relation": "REQUIRED_BY"
+    },
+    {
+      "source": "skill_aws",
+      "target": "cyber_analyst",
+      "relation": "REQUIRED_BY"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "data_scientist": [
+    "skill_python",
+    "skill_sql",
+    "skill_ml",
+    "skill_deep_learning",
+    "skill_nlp",
+    "skill_pandas",
+    "skill_data_viz",
+    "skill_generative_ai",
+    "skill_llm",
+    "skill_rag"
+  ],
+  "ml_engineer": [
+    "skill_python",
+    "skill_ml",
+    "skill_deep_learning",
+    "skill_pytorch",
+    "skill_mlops",
+    "skill_docker",
+    "skill_kubernetes",
+    "skill_llm",
+    "skill_rag",
+    "skill_vectordb",
+    "skill_ai_agents",
+    "skill_prompt_eng"
+  ],
+  "full_stack": [
+    "skill_javascript",
+    "skill_typescript",
+    "skill_react",
+    "skill_nodejs",
+    "skill_html_css",
+    "skill_rest_api",
+    "skill_mongodb",
+    "skill_sql",
+    "skill_git",
+    "skill_docker"
+  ],
+  "cloud_engineer": [
+    "skill_aws",
+    "skill_azure",
+    "skill_kubernetes",
+    "skill_docker",
+    "skill_terraform",
+    "skill_linux",
+    "skill_cicd",
+    "skill_git",
+    "skill_cloud_security",
+    "skill_ansible"
+  ],
+  "cyber_analyst": [
+    "skill_network_security",
+    "skill_ethical_hacking",
+    "skill_siem",
+    "skill_cryptography",
+    "skill_cloud_security",
+    "skill_linux",
+    "skill_python",
+    "skill_aws"
+  ]
+}
