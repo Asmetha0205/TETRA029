@@ -1,0 +1,921 @@
+{
+  "postgresql": {
+    "technology_id": "postgresql",
+    "canonical_name": "PostgreSQL",
+    "category": "Database",
+    "aliases": [
+      "Postgres",
+      "postgresql",
+      "psql"
+    ],
+    "university": "Stanford University",
+    "department": "Department of Computer Science",
+    "degree_program": "B.Tech Computer Science and Engineering",
+    "course_code": "CS101",
+    "course_name": "Title: Introduction to Computer Science & Software Engineering",
+    "semester": "Semester 1",
+    "credits": 3.0,
+    "module_name": "Core Curriculum Unit",
+    "learning_outcomes": [
+      "Demonstrate proficiency in PostgreSQL"
+    ],
+    "frequency": 11,
+    "status": "active",
+    "first_seen": "2026-08-02T06:00:38.567260+00:00",
+    "last_updated": "2026-08-02T06:39:10.149743+00:00",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 10,
+      "created_at": "2026-08-02T06:39:10.149743+00:00",
+      "updated_at": "2026-08-02T06:39:10.149743+00:00",
+      "snapshot_version": null
+    },
+    "metadata": {
+      "document_id": "doc-b4227fd5a403"
+    }
+  },
+  "python": {
+    "technology_id": "python",
+    "canonical_name": "Python",
+    "category": "Programming Language",
+    "aliases": [
+      "py",
+      "python3"
+    ],
+    "university": "Stanford University",
+    "department": "Department of Computer Science",
+    "degree_program": "B.Tech Computer Science and Engineering",
+    "course_code": "CS101",
+    "course_name": "Title: Introduction to Computer Science & Software Engineering",
+    "semester": "Semester 1",
+    "credits": 3.0,
+    "module_name": "Core Curriculum Unit",
+    "learning_outcomes": [
+      "Demonstrate proficiency in Python"
+    ],
+    "frequency": 13,
+    "status": "active",
+    "first_seen": "2026-08-02T06:00:38.567260+00:00",
+    "last_updated": "2026-08-02T06:42:43.077120+00:00",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 12,
+      "created_at": "2026-08-02T06:42:43.077120+00:00",
+      "updated_at": "2026-08-02T06:42:43.077120+00:00",
+      "snapshot_version": null
+    },
+    "metadata": {
+      "document_id": "doc-b4227fd5a403"
+    }
+  },
+  "artificial-intelligence": {
+    "technology_id": "artificial-intelligence",
+    "canonical_name": "Artificial Intelligence",
+    "category": "AI / ML",
+    "aliases": [
+      "AI",
+      "ai",
+      "artificial intelligence"
+    ],
+    "university": "Stanford University",
+    "department": "Department of Computer Science",
+    "degree_program": "B.Tech Computer Science",
+    "course_code": "CS101",
+    "course_name": "Computer Science Core Syllabus",
+    "semester": "Semester 1",
+    "credits": 4.0,
+    "module_name": "Core Curriculum Unit",
+    "learning_outcomes": [
+      "Demonstrate proficiency in Artificial Intelligence"
+    ],
+    "frequency": 2,
+    "status": "active",
+    "first_seen": "2026-08-02T06:29:22.226908+00:00",
+    "last_updated": "2026-08-02T06:42:43.028335+00:00",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 1,
+      "created_at": "2026-08-02T06:42:43.028335+00:00",
+      "updated_at": "2026-08-02T06:42:43.028335+00:00",
+      "snapshot_version": null
+    },
+    "metadata": {
+      "document_id": "doc-1c1b5847b24f"
+    }
+  },
+  "computer-vision": {
+    "technology_id": "computer-vision",
+    "canonical_name": "Computer Vision",
+    "category": "AI / ML",
+    "aliases": [
+      "CV",
+      "computer-vision",
+      "cv"
+    ],
+    "university": "Stanford University",
+    "department": "Department of Computer Science",
+    "degree_program": "B.Tech Computer Science",
+    "course_code": "CS101",
+    "course_name": "Computer Science Core Syllabus",
+    "semester": "Semester 1",
+    "credits": 4.0,
+    "module_name": "Core Curriculum Unit",
+    "learning_outcomes": [
+      "Demonstrate proficiency in Computer Vision"
+    ],
+    "frequency": 2,
+    "status": "active",
+    "first_seen": "2026-08-02T06:29:22.226908+00:00",
+    "last_updated": "2026-08-02T06:42:43.036904+00:00",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 1,
+      "created_at": "2026-08-02T06:42:43.036904+00:00",
+      "updated_at": "2026-08-02T06:42:43.036904+00:00",
+      "snapshot_version": null
+    },
+    "metadata": {
+      "document_id": "doc-1c1b5847b24f"
+    }
+  },
+  "deep-learning": {
+    "technology_id": "deep-learning",
+    "canonical_name": "Deep Learning",
+    "category": "AI / ML",
+    "aliases": [
+      "DL",
+      "deep-learning",
+      "deeplearning"
+    ],
+    "university": "Stanford University",
+    "department": "Department of Computer Science",
+    "degree_program": "B.Tech Computer Science",
+    "course_code": "CS101",
+    "course_name": "Computer Science Core Syllabus",
+    "semester": "Semester 1",
+    "credits": 4.0,
+    "module_name": "Core Curriculum Unit",
+    "learning_outcomes": [
+      "Demonstrate proficiency in Deep Learning"
+    ],
+    "frequency": 2,
+    "status": "active",
+    "first_seen": "2026-08-02T06:29:22.226908+00:00",
+    "last_updated": "2026-08-02T06:42:43.038910+00:00",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 1,
+      "created_at": "2026-08-02T06:42:43.040520+00:00",
+      "updated_at": "2026-08-02T06:42:43.040520+00:00",
+      "snapshot_version": null
+    },
+    "metadata": {
+      "document_id": "doc-1c1b5847b24f"
+    }
+  },
+  "docker": {
+    "technology_id": "docker",
+    "canonical_name": "Docker",
+    "category": "DevOps",
+    "aliases": [
+      "docker",
+      "docker container"
+    ],
+    "university": "Stanford University",
+    "department": "Department of Computer Science",
+    "degree_program": "B.Tech Computer Science",
+    "course_code": "CS101",
+    "course_name": "Computer Science Core Syllabus",
+    "semester": "Semester 1",
+    "credits": 4.0,
+    "module_name": "Core Curriculum Unit",
+    "learning_outcomes": [
+      "Demonstrate proficiency in Docker"
+    ],
+    "frequency": 2,
+    "status": "active",
+    "first_seen": "2026-08-02T06:29:22.226908+00:00",
+    "last_updated": "2026-08-02T06:39:10.127522+00:00",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 1,
+      "created_at": "2026-08-02T06:39:10.127522+00:00",
+      "updated_at": "2026-08-02T06:39:10.127522+00:00",
+      "snapshot_version": null
+    },
+    "metadata": {
+      "document_id": "doc-1c1b5847b24f"
+    }
+  },
+  "fastapi": {
+    "technology_id": "fastapi",
+    "canonical_name": "FastAPI",
+    "category": "Framework",
+    "aliases": [
+      "Fast API",
+      "FastApi",
+      "fast-api"
+    ],
+    "university": "Stanford University",
+    "department": "Department of Computer Science",
+    "degree_program": "B.Tech Computer Science",
+    "course_code": "CS101",
+    "course_name": "Computer Science Core Syllabus",
+    "semester": "Semester 1",
+    "credits": 4.0,
+    "module_name": "Core Curriculum Unit",
+    "learning_outcomes": [
+      "Demonstrate proficiency in FastAPI"
+    ],
+    "frequency": 2,
+    "status": "active",
+    "first_seen": "2026-08-02T06:29:22.226908+00:00",
+    "last_updated": "2026-08-02T06:39:10.132150+00:00",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 1,
+      "created_at": "2026-08-02T06:39:10.132150+00:00",
+      "updated_at": "2026-08-02T06:39:10.132150+00:00",
+      "snapshot_version": null
+    },
+    "metadata": {
+      "document_id": "doc-1c1b5847b24f"
+    }
+  },
+  "git": {
+    "technology_id": "git",
+    "canonical_name": "Git",
+    "category": "Version Control",
+    "aliases": [
+      "git vcs"
+    ],
+    "university": "Stanford University",
+    "department": "Department of Computer Science",
+    "degree_program": "B.Tech Computer Science",
+    "course_code": "CS101",
+    "course_name": "Computer Science Core Syllabus",
+    "semester": "Semester 1",
+    "credits": 4.0,
+    "module_name": "Core Curriculum Unit",
+    "learning_outcomes": [
+      "Demonstrate proficiency in Git"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "first_seen": "2026-08-02T06:29:22.226908+00:00",
+    "last_updated": "2026-08-02T06:29:22.226908+00:00",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0,
+      "created_at": "2026-08-02T06:29:22.228051+00:00",
+      "updated_at": "2026-08-02T06:29:22.228051+00:00",
+      "snapshot_version": null
+    },
+    "metadata": {
+      "document_id": "doc-1c1b5847b24f"
+    }
+  },
+  "machine-learning": {
+    "technology_id": "machine-learning",
+    "canonical_name": "Machine Learning",
+    "category": "AI / ML",
+    "aliases": [
+      "M/L",
+      "ML",
+      "machine-learning",
+      "ml",
+      "ml engineering"
+    ],
+    "university": "Stanford University",
+    "department": "Department of Computer Science",
+    "degree_program": "B.Tech Computer Science",
+    "course_code": "CS101",
+    "course_name": "Computer Science Core Syllabus",
+    "semester": "Semester 1",
+    "credits": 4.0,
+    "module_name": "Core Curriculum Unit",
+    "learning_outcomes": [
+      "Demonstrate proficiency in Machine Learning"
+    ],
+    "frequency": 3,
+    "status": "active",
+    "first_seen": "2026-08-02T06:29:22.226908+00:00",
+    "last_updated": "2026-08-02T06:42:43.054099+00:00",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 2,
+      "created_at": "2026-08-02T06:42:43.054099+00:00",
+      "updated_at": "2026-08-02T06:42:43.054099+00:00",
+      "snapshot_version": null
+    },
+    "metadata": {
+      "document_id": "doc-1c1b5847b24f"
+    }
+  },
+  "natural-language-processing": {
+    "technology_id": "natural-language-processing",
+    "canonical_name": "Natural Language Processing",
+    "category": "AI / ML",
+    "aliases": [
+      "NLP",
+      "natural-language-processing",
+      "nlp"
+    ],
+    "university": "Stanford University",
+    "department": "Department of Computer Science",
+    "degree_program": "B.Tech Computer Science",
+    "course_code": "CS101",
+    "course_name": "Computer Science Core Syllabus",
+    "semester": "Semester 1",
+    "credits": 4.0,
+    "module_name": "Core Curriculum Unit",
+    "learning_outcomes": [
+      "Demonstrate proficiency in Natural Language Processing"
+    ],
+    "frequency": 2,
+    "status": "active",
+    "first_seen": "2026-08-02T06:29:22.226908+00:00",
+    "last_updated": "2026-08-02T06:42:43.067940+00:00",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 1,
+      "created_at": "2026-08-02T06:42:43.067940+00:00",
+      "updated_at": "2026-08-02T06:42:43.067940+00:00",
+      "snapshot_version": null
+    },
+    "metadata": {
+      "document_id": "doc-1c1b5847b24f"
+    }
+  },
+  "numpy": {
+    "technology_id": "numpy",
+    "canonical_name": "NumPy",
+    "category": "Library",
+    "aliases": [
+      "np",
+      "numpy"
+    ],
+    "university": "Stanford University",
+    "department": "Department of Computer Science",
+    "degree_program": "B.Tech Computer Science",
+    "course_code": "CS101",
+    "course_name": "Computer Science Core Syllabus",
+    "semester": "Semester 1",
+    "credits": 4.0,
+    "module_name": "Core Curriculum Unit",
+    "learning_outcomes": [
+      "Demonstrate proficiency in NumPy"
+    ],
+    "frequency": 3,
+    "status": "active",
+    "first_seen": "2026-08-02T06:29:22.226908+00:00",
+    "last_updated": "2026-08-02T06:42:43.069935+00:00",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 2,
+      "created_at": "2026-08-02T06:42:43.069935+00:00",
+      "updated_at": "2026-08-02T06:42:43.069935+00:00",
+      "snapshot_version": null
+    },
+    "metadata": {
+      "document_id": "doc-1c1b5847b24f"
+    }
+  },
+  "opencv": {
+    "technology_id": "opencv",
+    "canonical_name": "OpenCV",
+    "category": "Library",
+    "aliases": [
+      "opencv"
+    ],
+    "university": "Stanford University",
+    "department": "Department of Computer Science",
+    "degree_program": "B.Tech Computer Science",
+    "course_code": "CS101",
+    "course_name": "Computer Science Core Syllabus",
+    "semester": "Semester 1",
+    "credits": 4.0,
+    "module_name": "Core Curriculum Unit",
+    "learning_outcomes": [
+      "Demonstrate proficiency in OpenCV"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "first_seen": "2026-08-02T06:29:22.226908+00:00",
+    "last_updated": "2026-08-02T06:29:22.226908+00:00",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0,
+      "created_at": "2026-08-02T06:29:22.228051+00:00",
+      "updated_at": "2026-08-02T06:29:22.228051+00:00",
+      "snapshot_version": null
+    },
+    "metadata": {
+      "document_id": "doc-1c1b5847b24f"
+    }
+  },
+  "pandas": {
+    "technology_id": "pandas",
+    "canonical_name": "Pandas",
+    "category": "Library",
+    "aliases": [
+      "pandas library"
+    ],
+    "university": "Stanford University",
+    "department": "Department of Computer Science",
+    "degree_program": "B.Tech Computer Science",
+    "course_code": "CS101",
+    "course_name": "Computer Science Core Syllabus",
+    "semester": "Semester 1",
+    "credits": 4.0,
+    "module_name": "Core Curriculum Unit",
+    "learning_outcomes": [
+      "Demonstrate proficiency in Pandas"
+    ],
+    "frequency": 2,
+    "status": "active",
+    "first_seen": "2026-08-02T06:29:22.226908+00:00",
+    "last_updated": "2026-08-02T06:39:10.145183+00:00",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 1,
+      "created_at": "2026-08-02T06:39:10.145183+00:00",
+      "updated_at": "2026-08-02T06:39:10.145183+00:00",
+      "snapshot_version": null
+    },
+    "metadata": {
+      "document_id": "doc-1c1b5847b24f"
+    }
+  },
+  "pytorch": {
+    "technology_id": "pytorch",
+    "canonical_name": "PyTorch",
+    "category": "Library",
+    "aliases": [
+      "pytorch",
+      "torch"
+    ],
+    "university": "Stanford University",
+    "department": "Department of Computer Science",
+    "degree_program": "B.Tech Computer Science",
+    "course_code": "CS101",
+    "course_name": "Computer Science Core Syllabus",
+    "semester": "Semester 1",
+    "credits": 4.0,
+    "module_name": "Core Curriculum Unit",
+    "learning_outcomes": [
+      "Demonstrate proficiency in PyTorch"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "first_seen": "2026-08-02T06:29:22.226908+00:00",
+    "last_updated": "2026-08-02T06:29:22.226908+00:00",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0,
+      "created_at": "2026-08-02T06:29:22.226908+00:00",
+      "updated_at": "2026-08-02T06:29:22.226908+00:00",
+      "snapshot_version": null
+    },
+    "metadata": {
+      "document_id": "doc-1c1b5847b24f"
+    }
+  },
+  "scikit-learn": {
+    "technology_id": "scikit-learn",
+    "canonical_name": "Scikit-learn",
+    "category": "Library",
+    "aliases": [
+      "scikit learn",
+      "scikit-learning",
+      "sklearn"
+    ],
+    "university": "Stanford University",
+    "department": "Department of Computer Science",
+    "degree_program": "B.Tech Computer Science",
+    "course_code": "CS101",
+    "course_name": "Computer Science Core Syllabus",
+    "semester": "Semester 1",
+    "credits": 4.0,
+    "module_name": "Core Curriculum Unit",
+    "learning_outcomes": [
+      "Demonstrate proficiency in Scikit-learn"
+    ],
+    "frequency": 2,
+    "status": "active",
+    "first_seen": "2026-08-02T06:29:22.226908+00:00",
+    "last_updated": "2026-08-02T06:42:43.081682+00:00",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 1,
+      "created_at": "2026-08-02T06:42:43.081682+00:00",
+      "updated_at": "2026-08-02T06:42:43.081682+00:00",
+      "snapshot_version": null
+    },
+    "metadata": {
+      "document_id": "doc-1c1b5847b24f"
+    }
+  },
+  "tensorflow": {
+    "technology_id": "tensorflow",
+    "canonical_name": "TensorFlow",
+    "category": "Library",
+    "aliases": [
+      "TF",
+      "tensorflow"
+    ],
+    "university": "Stanford University",
+    "department": "Department of Computer Science",
+    "degree_program": "B.Tech Computer Science",
+    "course_code": "CS101",
+    "course_name": "Computer Science Core Syllabus",
+    "semester": "Semester 1",
+    "credits": 4.0,
+    "module_name": "Core Curriculum Unit",
+    "learning_outcomes": [
+      "Demonstrate proficiency in TensorFlow"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "first_seen": "2026-08-02T06:29:22.226908+00:00",
+    "last_updated": "2026-08-02T06:29:22.226908+00:00",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0,
+      "created_at": "2026-08-02T06:29:22.226908+00:00",
+      "updated_at": "2026-08-02T06:29:22.228051+00:00",
+      "snapshot_version": null
+    },
+    "metadata": {
+      "document_id": "doc-1c1b5847b24f"
+    }
+  },
+  "sql": {
+    "technology_id": "sql",
+    "canonical_name": "SQL",
+    "category": "Programming Language",
+    "aliases": [
+      "structured query language"
+    ],
+    "university": "Data Science\nSample University",
+    "department": "Department of Computer Science",
+    "degree_program": "B.Tech CSE",
+    "course_code": "CS101",
+    "course_name": "Computer Science Core Syllabus",
+    "semester": "Semester 1",
+    "credits": 4.0,
+    "module_name": "Core Curriculum Unit",
+    "learning_outcomes": [
+      "Demonstrate proficiency in SQL"
+    ],
+    "frequency": 2,
+    "status": "active",
+    "first_seen": "2026-08-02T06:39:10.126469+00:00",
+    "last_updated": "2026-08-02T06:42:43.084220+00:00",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 1,
+      "created_at": "2026-08-02T06:42:43.084220+00:00",
+      "updated_at": "2026-08-02T06:42:43.084220+00:00",
+      "snapshot_version": null
+    },
+    "metadata": {
+      "document_id": "doc-ce65acd2c729"
+    }
+  },
+  "aws": {
+    "technology_id": "aws",
+    "canonical_name": "AWS",
+    "category": "Cloud",
+    "aliases": [
+      "Amazon Web Services",
+      "amazon aws",
+      "aws cloud"
+    ],
+    "university": "Stanford University",
+    "department": "Department of Computer Science",
+    "degree_program": "B.Tech Computer Science and Engineering",
+    "course_code": "CS168",
+    "course_name": "Linear Algebra and",
+    "semester": "Semester 1",
+    "credits": 3.0,
+    "module_name": "Core Curriculum Unit",
+    "learning_outcomes": [
+      "Demonstrate proficiency in AWS"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "first_seen": "2026-08-02T06:42:43.027809+00:00",
+    "last_updated": "2026-08-02T06:42:43.027809+00:00",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0,
+      "created_at": "2026-08-02T06:42:43.028335+00:00",
+      "updated_at": "2026-08-02T06:42:43.028335+00:00",
+      "snapshot_version": null
+    },
+    "metadata": {
+      "document_id": "doc-c52cba281597"
+    }
+  },
+  "azure": {
+    "technology_id": "azure",
+    "canonical_name": "Azure",
+    "category": "Cloud",
+    "aliases": [
+      "Microsoft Azure",
+      "azure cloud",
+      "ms azure"
+    ],
+    "university": "Stanford University",
+    "department": "Department of Computer Science",
+    "degree_program": "B.Tech Computer Science and Engineering",
+    "course_code": "CS168",
+    "course_name": "Linear Algebra and",
+    "semester": "Semester 1",
+    "credits": 3.0,
+    "module_name": "Core Curriculum Unit",
+    "learning_outcomes": [
+      "Demonstrate proficiency in Azure"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "first_seen": "2026-08-02T06:42:43.027809+00:00",
+    "last_updated": "2026-08-02T06:42:43.027809+00:00",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0,
+      "created_at": "2026-08-02T06:42:43.028335+00:00",
+      "updated_at": "2026-08-02T06:42:43.028335+00:00",
+      "snapshot_version": null
+    },
+    "metadata": {
+      "document_id": "doc-c52cba281597"
+    }
+  },
+  "express": {
+    "technology_id": "express",
+    "canonical_name": "Express",
+    "category": "Framework",
+    "aliases": [
+      "Express.js",
+      "express js",
+      "expressjs"
+    ],
+    "university": "Stanford University",
+    "department": "Department of Computer Science",
+    "degree_program": "B.Tech Computer Science and Engineering",
+    "course_code": "CS168",
+    "course_name": "Linear Algebra and",
+    "semester": "Semester 1",
+    "credits": 3.0,
+    "module_name": "Core Curriculum Unit",
+    "learning_outcomes": [
+      "Demonstrate proficiency in Express"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "first_seen": "2026-08-02T06:42:43.027809+00:00",
+    "last_updated": "2026-08-02T06:42:43.027809+00:00",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0,
+      "created_at": "2026-08-02T06:42:43.028335+00:00",
+      "updated_at": "2026-08-02T06:42:43.028335+00:00",
+      "snapshot_version": null
+    },
+    "metadata": {
+      "document_id": "doc-c52cba281597"
+    }
+  },
+  "java": {
+    "technology_id": "java",
+    "canonical_name": "Java",
+    "category": "Programming Language",
+    "aliases": [],
+    "university": "Stanford University",
+    "department": "Department of Computer Science",
+    "degree_program": "B.Tech Computer Science and Engineering",
+    "course_code": "CS168",
+    "course_name": "Linear Algebra and",
+    "semester": "Semester 1",
+    "credits": 3.0,
+    "module_name": "Core Curriculum Unit",
+    "learning_outcomes": [
+      "Demonstrate proficiency in Java"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "first_seen": "2026-08-02T06:42:43.027809+00:00",
+    "last_updated": "2026-08-02T06:42:43.027809+00:00",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0,
+      "created_at": "2026-08-02T06:42:43.028335+00:00",
+      "updated_at": "2026-08-02T06:42:43.028335+00:00",
+      "snapshot_version": null
+    },
+    "metadata": {
+      "document_id": "doc-c52cba281597"
+    }
+  },
+  "javascript": {
+    "technology_id": "javascript",
+    "canonical_name": "JavaScript",
+    "category": "Programming Language",
+    "aliases": [
+      "ECMAScript",
+      "JS",
+      "es6",
+      "js"
+    ],
+    "university": "Stanford University",
+    "department": "Department of Computer Science",
+    "degree_program": "B.Tech Computer Science and Engineering",
+    "course_code": "CS168",
+    "course_name": "Linear Algebra and",
+    "semester": "Semester 1",
+    "credits": 3.0,
+    "module_name": "Core Curriculum Unit",
+    "learning_outcomes": [
+      "Demonstrate proficiency in JavaScript"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "first_seen": "2026-08-02T06:42:43.027809+00:00",
+    "last_updated": "2026-08-02T06:42:43.027809+00:00",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0,
+      "created_at": "2026-08-02T06:42:43.028335+00:00",
+      "updated_at": "2026-08-02T06:42:43.028335+00:00",
+      "snapshot_version": null
+    },
+    "metadata": {
+      "document_id": "doc-c52cba281597"
+    }
+  },
+  "linux": {
+    "technology_id": "linux",
+    "canonical_name": "Linux",
+    "category": "Operating System",
+    "aliases": [
+      "gnu/linux",
+      "linux os"
+    ],
+    "university": "Stanford University",
+    "department": "Department of Computer Science",
+    "degree_program": "B.Tech Computer Science and Engineering",
+    "course_code": "CS168",
+    "course_name": "Linear Algebra and",
+    "semester": "Semester 1",
+    "credits": 3.0,
+    "module_name": "Core Curriculum Unit",
+    "learning_outcomes": [
+      "Demonstrate proficiency in Linux"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "first_seen": "2026-08-02T06:42:43.027809+00:00",
+    "last_updated": "2026-08-02T06:42:43.027809+00:00",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0,
+      "created_at": "2026-08-02T06:42:43.028335+00:00",
+      "updated_at": "2026-08-02T06:42:43.028335+00:00",
+      "snapshot_version": null
+    },
+    "metadata": {
+      "document_id": "doc-c52cba281597"
+    }
+  },
+  "mongodb": {
+    "technology_id": "mongodb",
+    "canonical_name": "MongoDB",
+    "category": "Database",
+    "aliases": [
+      "Mongo",
+      "mongo db",
+      "mongodb"
+    ],
+    "university": "Stanford University",
+    "department": "Department of Computer Science",
+    "degree_program": "B.Tech Computer Science and Engineering",
+    "course_code": "CS168",
+    "course_name": "Linear Algebra and",
+    "semester": "Semester 1",
+    "credits": 3.0,
+    "module_name": "Core Curriculum Unit",
+    "learning_outcomes": [
+      "Demonstrate proficiency in MongoDB"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "first_seen": "2026-08-02T06:42:43.027809+00:00",
+    "last_updated": "2026-08-02T06:42:43.027809+00:00",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0,
+      "created_at": "2026-08-02T06:42:43.028335+00:00",
+      "updated_at": "2026-08-02T06:42:43.028335+00:00",
+      "snapshot_version": null
+    },
+    "metadata": {
+      "document_id": "doc-c52cba281597"
+    }
+  },
+  "mysql": {
+    "technology_id": "mysql",
+    "canonical_name": "MySQL",
+    "category": "Database",
+    "aliases": [
+      "my sql",
+      "mysql"
+    ],
+    "university": "Stanford University",
+    "department": "Department of Computer Science",
+    "degree_program": "B.Tech Computer Science and Engineering",
+    "course_code": "CS168",
+    "course_name": "Linear Algebra and",
+    "semester": "Semester 1",
+    "credits": 3.0,
+    "module_name": "Core Curriculum Unit",
+    "learning_outcomes": [
+      "Demonstrate proficiency in MySQL"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "first_seen": "2026-08-02T06:42:43.027809+00:00",
+    "last_updated": "2026-08-02T06:42:43.027809+00:00",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0,
+      "created_at": "2026-08-02T06:42:43.028335+00:00",
+      "updated_at": "2026-08-02T06:42:43.028335+00:00",
+      "snapshot_version": null
+    },
+    "metadata": {
+      "document_id": "doc-c52cba281597"
+    }
+  },
+  "oracle": {
+    "technology_id": "oracle",
+    "canonical_name": "Oracle",
+    "category": "Database",
+    "aliases": [
+      "oracle database",
+      "oracle db"
+    ],
+    "university": "Stanford University",
+    "department": "Department of Computer Science",
+    "degree_program": "B.Tech Computer Science and Engineering",
+    "course_code": "CS168",
+    "course_name": "Linear Algebra and",
+    "semester": "Semester 1",
+    "credits": 3.0,
+    "module_name": "Core Curriculum Unit",
+    "learning_outcomes": [
+      "Demonstrate proficiency in Oracle"
+    ],
+    "frequency": 1,
+    "status": "active",
+    "first_seen": "2026-08-02T06:42:43.027809+00:00",
+    "last_updated": "2026-08-02T06:42:43.027809+00:00",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0,
+      "created_at": "2026-08-02T06:42:43.028335+00:00",
+      "updated_at": "2026-08-02T06:42:43.028335+00:00",
+      "snapshot_version": null
+    },
+    "metadata": {
+      "document_id": "doc-c52cba281597"
+    }
+  }
+}

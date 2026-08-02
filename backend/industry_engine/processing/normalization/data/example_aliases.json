@@ -1,0 +1,17 @@
+[
+    {
+        "canonical_name": "RocketMQ",
+        "category": "Message Broker",
+        "aliases": ["apache rocketmq", "rocket mq"]
+    },
+    {
+        "canonical_name": "WebAssembly",
+        "category": "Programming Language",
+        "aliases": ["wasm", "web assembly"]
+    },
+    {
+        "canonical_name": "Superset",
+        "category": "Monitoring Tool",
+        "aliases": ["apache superset", "superset bi"]
+    }
+]
